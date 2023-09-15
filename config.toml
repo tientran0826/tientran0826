@@ -2,17 +2,17 @@ baseURL = "https://tientran0826.github.io/"
 languageCode = "en-us"
 title = "tientran0826"
 theme = "poison"
-# canonifyURLs = true
+canonifyURLs = true
 
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 # disqusShortname = "yourDisqusShortname"
 
 [params]
     brand = "Trần Minh Tiến"                      # name of your site - appears in the sidebar
-    brand_image = "images/avt.jpg"    # path to the image shown in the sidebar
+    brand_image = "/images/avt.jpg"    # path to the image shown in the sidebar
     description = "Data Engineer" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
-    favicon = "images/favicon.png"             # path to favicon (defaults to favicon.png)
+    favicon = "/images/favicon.png"             # path to favicon (defaults to favicon.png)
 
     # MENU PLACEHOLDER
     # Menu dict keys:
@@ -21,8 +21,8 @@ theme = "poison"
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "Posts", URL = "/posts", Pre = "Recent", HasChildren = true, Limit = 5},
         {Name = "About", URL = "/about", HasChildren = false},
+        {Name = "Posts", URL = "/posts", Pre = "Recent", HasChildren = true, Limit = 5},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
