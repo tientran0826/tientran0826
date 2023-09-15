@@ -9,10 +9,10 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "Trần Minh Tiến"                      # name of your site - appears in the sidebar
-    brand_image = "/images/avt.jpg"    # path to the image shown in the sidebar
+    brand_image = "static/images/avt.jpg"    # path to the image shown in the sidebar
     description = "Data Engineer" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
-    favicon = "/images/favicon.png"             # path to favicon (defaults to favicon.png)
+    favicon = "static/images/favicon.png"             # path to favicon (defaults to favicon.png)
 
     # MENU PLACEHOLDER
     # Menu dict keys:
