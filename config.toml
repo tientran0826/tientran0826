@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://tientran0826.github.io/tientran0826/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
