@@ -1,4 +1,4 @@
-baseURL = "https://tientran0826.tech"
+baseURL = "https://tientran0826.tech/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
