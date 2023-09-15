@@ -43,16 +43,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           submodules: recursive
-      - name: Add submodule
-        run: |
-          git submodule add https://github.com/tientran0826/tientran0826.git themes/poison
-  
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'tientran0826'
-          git config --global user.email 'tientran0826@gmail.com'
-          git commit -am "Added poison theme submodule"
-          git push
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
