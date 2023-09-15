@@ -2,7 +2,7 @@ baseURL = "https://tientran0826.github.io/"
 languageCode = "en-us"
 title = "tientran0826"
 theme = "poison"
-canonifyURLs = false
+canonifyURLs = true
 
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 # disqusShortname = "yourDisqusShortname"
