@@ -1,4 +1,4 @@
-baseURL = "https://tientran0826.github.io"
+baseURL = "https://tientran0826.github.io/"
 languageCode = "en-us"
 title = "tientran0826"
 theme = "poison"
@@ -9,10 +9,10 @@ theme = "poison"
 
 [params]
     brand = "Trần Minh Tiến"                      # name of your site - appears in the sidebar
-    brand_image = "/images/avt.jpg"    # path to the image shown in the sidebar
+    brand_image = "images/avt.jpg"    # path to the image shown in the sidebar
     description = "Data Engineer" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
-    favicon = "/images/favicon.png"             # path to favicon (defaults to favicon.png)
+    favicon = "images/favicon.png"             # path to favicon (defaults to favicon.png)
 
     # MENU PLACEHOLDER
     # Menu dict keys:
