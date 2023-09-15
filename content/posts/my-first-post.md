@@ -14,4 +14,4 @@ Mọi người có thể nhắn trực tiếp vào facebook của mình hoặc e
 
 <br>
 
-![Data](/images/DE.jpg)
+![Data](images/DE.jpg)
