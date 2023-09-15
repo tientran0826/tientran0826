@@ -10,7 +10,7 @@ Mình là **Trần Minh Tiến**, hiện đang theo học tại ngành **Khoa h�
 
 Bên cạnh việc học, mình cũng đang làm việc như một **Data Engineer** tại **VietQuant**, nơi mình có cơ hội áp dụng những gì đã học vào thực tế và cùng đồng đội đẩy mạnh sự phát triển của công ty.
 
-| ![My workspace](/static/images/workspace.JPG) |
+| ![My workspace](/images/workspace.JPG) |
 |:--:|
 
 ### Thành tích học tập
@@ -19,11 +19,11 @@ Bên cạnh việc học, mình cũng đang làm việc như một **Data Engine
 - Học bổng **"Ươm mầm tài năng Toán và Trí tuệ nhân tạo"** do ĐHQG-HCM và tập đoàn Hưng Thịnh cấp
 - TOEIC L&R: 925 (Listening: 495/495)
 
-| ![Học bổng](/static/images/hocbong.jpg) |
+| ![Học bổng](/images/hocbong.jpg) |
 |:--:|
 | Tui đứng thứ 2 bên phải qua :> |
 
-| ![Toeic](/static/images/toeic.jpg) |
+| ![Toeic](/images/toeic.jpg) |
 |:--:|
 | Lần đầu thi với thời gian ôn 30 ngày |
 
