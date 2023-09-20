@@ -98,7 +98,7 @@ theme = "FixIt"
 
   # FixIt 0.2.0 | NEW Search config
   [params.search]
-    enable = false
+    enable = true
     # type of search engine ["lunr", "algolia", "fuse"]
     type = "lunr"
     # max index length of the chunked content
@@ -590,7 +590,7 @@ theme = "FixIt"
         enable = true
         siteID = "wKL98wOU"
         limit = 5
-        height = ""
+        height = "500px"
         color = ""
         colorful = true
         dislikes = false
