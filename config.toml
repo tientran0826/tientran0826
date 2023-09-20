@@ -1,7 +1,7 @@
-baseURL = "https://tientran0826.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "tientran0826"
-theme = "poison"
+theme = "FixIt"
 
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 # disqusShortname = "yourDisqusShortname"
