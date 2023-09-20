@@ -580,14 +580,14 @@ theme = "FixIt"
         reaction = false # FixIt 0.2.18 | NEW
       # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
       [params.page.comment.facebook]
-        enable = false
+        enable = true
         width = "100%"
         numPosts = 10
         appId = "1390293954774496"
-        languageCode = "Vietnamese"
+        languageCode = "vi"
       # FixIt 0.2.0 | NEW Telegram comments config (https://comments.app)
       [params.page.comment.telegram]
-        enable = true
+        enable = false
         siteID = "wKL98wOU"
         limit = 5
         height = "500px"
