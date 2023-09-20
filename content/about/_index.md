@@ -8,7 +8,7 @@ title: "ABOUT ME"
 
 Mình là **Trần Minh Tiến**, hiện đang theo học tại ngành **Khoa học dữ liệu** - Khoa toán tin học, trường **ĐH Khoa học tự nhiên, ĐHQG-HCM**. 
 
-Bên cạnh việc học, mình cũng đang làm việc như một **Data Engineer** tại **VietQuant**, nơi mình có cơ hội áp dụng những gì đã học vào thực tế và cùng đồng đội đẩy mạnh sự phát triển của công ty.
+Bên cạnh việc học, mình cũng đang làm việc như một **Data Engineer** tại **VietQuant**, nơi mình có cơ hội áp dụng những gì đã học vào thực tế.
 
 | ![My workspace](/images/workspace.JPG) |
 |:--:|
